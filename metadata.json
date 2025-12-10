@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Muze Player",
+  "description": "A modern, Electron-ready music player featuring local playback, online streaming, and NAS/Cloud integration with a sleek dark interface.",
+  "requestFramePermissions": []
+}
